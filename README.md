@@ -1,1 +1,1 @@
-# CSE-ORGANIZERS-APP
+# CSE Organizers App
